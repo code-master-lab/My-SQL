@@ -12,3 +12,5 @@ Core Commands: Mastering SELECT, INSERT, UPDATE, DELETE, and more.
 Advanced Topics: Exploring joins, subqueries, and views.
 
 The tutorial is beginner-friendly and structured for quick learning.
+🔗 https://youtu.be/hlGoQC332VM?si=ie5Wb8GEz6Sw4-dg
+
