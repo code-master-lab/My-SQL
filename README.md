@@ -1,20 +1,55 @@
-📘 Where I Learned MySQL
+# MySQL Practice Repository
 
+Welcome to my **MySQL Practice Repository**, where I upload all my practice codes, notes, and mini-projects while learning MySQL.
 
+---
 
+## 📺 Learning Reference
 
-I learned MySQL through the "Learn SQL in 3 Hours" tutorial by Apna College, featuring Bommuluri Raghavendra Mani. This comprehensive session covers:
+[![YouTube Thumbnail](https://img.youtube.com/vi/hlGoQC332VM/maxresdefault.jpg)](https://youtu.be/hlGoQC332VM?si=Bk0_YD8lYPLF1771)
 
-SQL Basics: Understanding databases, tables, and data types.
+**Click the image to watch the video I am following to learn MySQL.**
 
-Core Commands: Mastering SELECT, INSERT, UPDATE, DELETE, and more.
+---
 
-Advanced Topics: Exploring joins, subqueries, and views.
+## 📚 What you will find here:
 
-The tutorial is beginner-friendly and structured for quick learning.
+✅ Basic SQL commands (DDL, DML, DCL, TCL)  
+✅ Creating and managing databases and tables  
+✅ Performing queries (SELECT, WHERE, JOIN, GROUP BY)  
+✅ Using aggregate functions  
+✅ Working with constraints and relationships  
+✅ Basic stored procedures and functions  
+✅ Practical examples with simple explanations
 
+---
 
+## 🚀 Why this repository?
 
+I am learning MySQL to build a strong database foundation for backend development and to improve my logical thinking in data handling.
 
-🔗 https://youtu.be/hlGoQC332VM?si=ie5Wb8GEz6Sw4-dg
+---
+
+## 📌 Useful Links
+
+- [Watch the YouTube Video](https://youtu.be/hlGoQC332VM?si=Bk0_YD8lYPLF1771)
+- [My GitHub Profile](https://github.com/your-username)
+
+---
+
+## ✍️ Contributing
+
+If you are also learning MySQL, feel free to fork and practice along.
+
+---
+
+## 📧 Contact
+
+If you have questions or want to collaborate:
+- Email: your-email@example.com
+
+---
+
+> **Keep practicing MySQL daily to build your backend logic stronger.**
+
 
